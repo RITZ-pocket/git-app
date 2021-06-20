@@ -1,0 +1,2 @@
+class PostdController < ApplicationController
+end
